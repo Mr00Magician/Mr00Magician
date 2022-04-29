@@ -13,7 +13,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mr00Magician&show_icons=true&hide_border=true"
-       height="250"
+       height="210"
        width="350"
        align="left">
 </p>
