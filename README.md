@@ -20,7 +20,7 @@
 
 
 
-# Connect With Me
+<h1 align="left">Connct With Me On: </h1>
 
 <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/92143521/166066659-5f48c103-2b78-4665-a1b3-ed4cd7adf80c.png"/></a>
 <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/92143521/166066764-878db0ca-3c79-4477-b17d-4ef2378f70d5.png"/></a>
