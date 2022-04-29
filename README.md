@@ -5,7 +5,17 @@
 
 # About me
 ### A dedicated and diligent AI/ML enthusiast
+<p>
+  <img src="https://user-images.githubusercontent.com/92143521/166060540-71a72f58-396e-4230-8b0e-86ac1a25a825.gif"
+       height="250"
+       align="right">
+</p>
 
-[![Mohd Anas Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr00Magician&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr00Magician&show_icons=true&hide_border=true"
+       height="200"
+       align="left">
+</p>
 
-# Connect with me
+
+
