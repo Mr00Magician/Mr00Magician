@@ -7,7 +7,7 @@
 ### A dedicated and diligent AI/ML enthusiast
 <p>
   <img src="https://user-images.githubusercontent.com/92143521/166063280-cf94e1f0-b8f4-4698-a1d5-04b5c71c28ba.gif"
-       height="200"
+       height="180"
        align="right">
 </p>
 
