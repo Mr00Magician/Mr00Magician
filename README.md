@@ -1,4 +1,6 @@
-### Hi there! I'm Anas - aka Mr00Magician. Appreciate you visiting my profile!
+###                                                       Hi there! 
+##                                              I'm Anas - aka Mr00Magician. 
+##                                          Appreciate you visiting my profile!
 
 ## I am a student
 
