@@ -1,6 +1,8 @@
-<h1 align="centre"> Hi there! </h1>
-<h2 align="centre"> I'm Anas - aka Mr00Magician. </h2>
-<h1 align="centre"> Appreciate you visiting my profile! </h1>
+<h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=9EF733&center=true&multiline=true&width=500&height=100&lines=I'm+Anas+-+aka+Mr00Magician;Appreciate+you+visiting+my+profile!;+"></a>
+</p>
+
 
 ## I am a student
 
