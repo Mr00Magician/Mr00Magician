@@ -7,14 +7,14 @@
 ### A dedicated and diligent AI/ML enthusiast
 <p>
   <img src="https://user-images.githubusercontent.com/92143521/166063280-cf94e1f0-b8f4-4698-a1d5-04b5c71c28ba.gif"
-       height="250"
+       height="220"
        align="right">
 </p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mr00Magician&show_icons=true&hide_border=true"
-       height="300"
-       width="500"
+       height="250"
+       width="400"
        align="left">
 </p>
 
