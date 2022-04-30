@@ -3,9 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=40&duration=3500&color=ED6434FF&center=true&multiline=true&width=500&height=120&lines=I'm+Anas+-+aka+Mr00Magician.;Appreciate+you+visiting+my+profile!;+"></a>
 </p>
 
-# About me
-### A dedicated and diligent AI/ML enthusiast who seeks to build a career in this field, precisely in Machine Learning.
-   - 🎓 As of now, I am an undergrad pursuing B. Tech. in Computer Science at BBDITM.<br>
+# 🕵️‍ About me 🕵️‍♀️
+### A dedicated and diligent AI/ML enthusiast who seeks to build a career in this field, Machine Learning to be precise.
+   - 👨‍🎓 As of now, I am an undergrad pursuing B. Tech. in Computer Science at BBDITM.<br>
    - 💪 Mastering C, C++, Data Structures and Algorithms has made my fundamentals of programming very strong.<br>
    - 📚 I am currently taking various courses on ML to further hone my ML skills.<br>
    - 📫 Want to reach me? Here you go: meanasnadeem@gmail.com<br>
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-# Some Insights
+# ⚡ Some Insights ⚡
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="185" align = "left"/></a>
   
@@ -29,10 +29,9 @@
        height="250"
        align="right">
 </p>
-<h1 align="left" > 
-  <br clear = "left">
-  Connect With Me
-</h1>
+<br clear = "left">
+
+# 🤝 Connect With Me 🤝
 
 <a href="https://www.instagram.com/i_am_mr_magician/?hl=en"><img width="50px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/92143521/166066659-5f48c103-2b78-4665-a1b3-ed4cd7adf80c.png"/></a>
 <a href="https://www.linkedin.com/in/meanasnadeem/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/92143521/166066764-878db0ca-3c79-4477-b17d-4ef2378f70d5.png"/></a>
