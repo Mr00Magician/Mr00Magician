@@ -6,9 +6,13 @@
 # About me
 ### A dedicated and diligent AI/ML enthusiast who seeks to build a career in this field, precisely in Machine Learning.
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="300" align = "left"/></a>
+<br>
+
+# Some Insights
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="250" align = "left"/></a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr00Magician&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="250" align = "left"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr00Magician&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150" align = "left"/></a>
 </p>
 <br clear = "both">
 <br clear = "both">
@@ -22,7 +26,7 @@
   Connect With Me On: 
 </h1>
 
-<a href="https://www.instagram.com/i_am_mr_magician/?hl=en"><img width="32px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/92143521/166066659-5f48c103-2b78-4665-a1b3-ed4cd7adf80c.png"/></a>
-<a href="https://www.linkedin.com/in/meanasnadeem/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/92143521/166066764-878db0ca-3c79-4477-b17d-4ef2378f70d5.png"/></a>
-<a href="https://www.facebook.com/anas.nadeem.9638/"><img width="32px" alt="Facebook" title="Facebook" src="https://user-images.githubusercontent.com/92143521/166066747-e26ed910-06bb-408f-96e3-03cdf5353ba1.png"/></a>
+<a href="https://www.instagram.com/i_am_mr_magician/?hl=en"><img width="50px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/92143521/166066659-5f48c103-2b78-4665-a1b3-ed4cd7adf80c.png"/></a>
+<a href="https://www.linkedin.com/in/meanasnadeem/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/92143521/166066764-878db0ca-3c79-4477-b17d-4ef2378f70d5.png"/></a>
+<a href="https://www.facebook.com/anas.nadeem.9638/"><img width="50px" alt="Facebook" title="Facebook" src="https://user-images.githubusercontent.com/92143521/166066747-e26ed910-06bb-408f-96e3-03cdf5353ba1.png"/></a>
 
