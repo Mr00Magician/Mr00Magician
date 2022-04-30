@@ -3,7 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=40&duration=3500&color=ED6434FF&center=true&multiline=true&width=500&height=120&lines=I'm+Anas+-+aka+Mr00Magician.;Appreciate+you+visiting+my+profile!;+"></a>
 </p>
 
-# 🕵️‍ About me 🕵️‍♀️
+<h1 align="center">
+  🕵️‍ About me 🕵️‍♀️
+</h1>
+   
 ### A dedicated and diligent AI/ML enthusiast who seeks to build a career in this field, Machine Learning to be precise.
    - 👨‍🎓 As of now, I am an undergrad pursuing B. Tech. in Computer Science at BBDITM.<br>
    - 💪 Mastering C, C++, Data Structures and Algorithms has made my fundamentals of programming very strong.<br>
@@ -12,8 +15,10 @@
    - 📝 [My Resume](https://drive.google.com/file/d/1F23UuKEp9Iw1kJGKiZsa0iOx3xRC6VQz/view?usp=sharing)
 
 <br>
-
-# 🔥 Languages and Frameworks 🔥
+<h1 align="center">
+  🔥 Languages and Frameworks 🔥
+</h1>
+  
 <p align="center">
   <code><img title="Python" height="25" src="https://user-images.githubusercontent.com/92143521/166102826-59081947-8e61-4e41-87d6-58ef893f0187.svg"></code>
   <code><img title="C++" height="25" src="https://user-images.githubusercontent.com/92143521/166102850-b0da9773-6241-4551-856e-c5a135818196.svg"></code>
@@ -25,8 +30,9 @@
 </p>
 
 <br>
-
-# ⚡ Some Insights ⚡
+<h1 align="center">
+  ⚡ Some Insights ⚡
+</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="185" align = "left"/></a>
   
