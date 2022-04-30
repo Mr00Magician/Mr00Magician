@@ -13,7 +13,7 @@
 
 <br>
 
-# 🔥 Languages and Frameworks I Am Familiar With 🔥
+# 🔥 Languages and Frameworks 🔥
 <p align="center">
   <code><img title="Python" height="25" src="https://user-images.githubusercontent.com/92143521/166102826-59081947-8e61-4e41-87d6-58ef893f0187.svg"></code>
   <code><img title="C++" height="25" src="https://user-images.githubusercontent.com/92143521/166102850-b0da9773-6241-4551-856e-c5a135818196.svg"></code>
