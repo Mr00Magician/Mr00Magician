@@ -5,17 +5,20 @@
 
 # About me
 ### A dedicated and diligent AI/ML enthusiast who seeks to build a career in this field, precisely in Machine Learning.
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" align = "left"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr00Magician&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" align = "right"/></a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="300" align = "left"/></a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr00Magician&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="250" align = "left"/></a>
 </p>
+<br clear = "both">
+<br clear = "both">
 <p>
   <img src="https://user-images.githubusercontent.com/92143521/166063280-cf94e1f0-b8f4-4698-a1d5-04b5c71c28ba.gif"
        height="250"
        align="right">
 </p>
 <h1 align="left" > 
-  <br clear = "both">
+  <br clear = "left">
   Connect With Me On: 
 </h1>
 
