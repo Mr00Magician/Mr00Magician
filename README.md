@@ -12,6 +12,18 @@
    - 📝 [My Resume](https://drive.google.com/file/d/1F23UuKEp9Iw1kJGKiZsa0iOx3xRC6VQz/view?usp=sharing)
 
 <br>
+
+# 🔥 Languages and Frameworks I Am Familiar With 🔥
+<p align="center">
+  <code><img title="Python" height="25" src="https://user-images.githubusercontent.com/92143521/166102826-59081947-8e61-4e41-87d6-58ef893f0187.svg"></code>
+  <code><img title="C++" height="25" src="https://user-images.githubusercontent.com/92143521/166102850-b0da9773-6241-4551-856e-c5a135818196.svg"></code>
+  <code><img title="C" height="25" src="https://user-images.githubusercontent.com/92143521/166102707-57a594dd-90a1-46be-9ac8-1f2e101a62d4.svg"></code>
+  <code><img title="Java" height="25" src="https://user-images.githubusercontent.com/92143521/166102864-8500ba32-01fc-4141-ae14-f060ec53134d.svg"></code>
+  <code><img title="Numpy" height="25" src="https://user-images.githubusercontent.com/92143521/166102882-247d10ab-630d-4094-aa19-7a20ae643acf.svg"></code>
+  <code><img title="Pandas" height="25" src="https://user-images.githubusercontent.com/92143521/166102932-b65a7471-2829-4fe5-b678-3d25b01161a7.svg"></code>
+  <code><img title="Tensorflow" height="25" src="https://user-images.githubusercontent.com/92143521/166102903-d5771bcb-fd60-4c9e-8245-705ca349b649.svg"></code>
+</p>
+
 <br>
 
 # ⚡ Some Insights ⚡
