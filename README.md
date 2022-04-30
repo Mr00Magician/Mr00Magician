@@ -5,6 +5,12 @@
 
 # About me
 ### A dedicated and diligent AI/ML enthusiast who seeks to build a career in this field, precisely in Machine Learning.
+   - 🎓 As of now, I am an undergrad pursuing B. Tech. in Computer Science at BBDITM.<br>
+   - 💪 Mastering C, C++, Data Structures and Algorithms has made my fundamentals of programming very strong.<br>
+   - 📚 I am currently taking various courses on ML to further hone my ML skills.<br>
+   - 📫 Want to reach me? Here you go: meanasnadeem@gmail.com<br>
+   - 📝 [My Resume](https://drive.google.com/file/d/1F23UuKEp9Iw1kJGKiZsa0iOx3xRC6VQz/view?usp=sharing)
+
 <br>
 <br>
 
