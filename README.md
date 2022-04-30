@@ -26,7 +26,9 @@
   <code><img title="Java" height="25" src="https://user-images.githubusercontent.com/92143521/166102864-8500ba32-01fc-4141-ae14-f060ec53134d.svg"></code>
   <code><img title="Numpy" height="25" src="https://user-images.githubusercontent.com/92143521/166102882-247d10ab-630d-4094-aa19-7a20ae643acf.svg"></code>
   <code><img title="Pandas" height="25" src="https://user-images.githubusercontent.com/92143521/166102932-b65a7471-2829-4fe5-b678-3d25b01161a7.svg"></code>
+  <code><img title="Scikit-Learn" height="25" src="https://user-images.githubusercontent.com/92143521/166103273-ef6e48ae-46c0-4cd5-9b77-e7f38c410d36.svg"></code>
   <code><img title="Tensorflow" height="25" src="https://user-images.githubusercontent.com/92143521/166102903-d5771bcb-fd60-4c9e-8245-705ca349b649.svg"></code>
+  <code><img title="Keras" height="25" src="https://user-images.githubusercontent.com/92143521/166103282-7ff5072f-ce13-40c5-a327-43070e85012f.svg"></code>
 </p>
 
 <br>
