@@ -10,9 +10,9 @@
 
 # Some Insights
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200" align = "left"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr00Magician&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192" align = "left"/></a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr00Magician&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&langs_count=10&layout=compact" height="200" align = "right"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohd Anas Nadeem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr00Magician&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&langs_count=10&layout=compact" height="192" align = "right"/></a>
 </p>
 <br clear = "both">
 <b>Note:</b> 'Most Used languages' is only a metric of the languages my public code consists of. It doesn't reflect my experience or skill level.
