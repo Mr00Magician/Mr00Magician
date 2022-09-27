@@ -57,4 +57,5 @@
 <a href="https://www.instagram.com/i_am_mr_magician/?hl=en"><img width="50px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/92143521/166066659-5f48c103-2b78-4665-a1b3-ed4cd7adf80c.png"/></a>
 <a href="https://www.linkedin.com/in/meanasnadeem/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/92143521/166066764-878db0ca-3c79-4477-b17d-4ef2378f70d5.png"/></a>
 <a href="https://www.facebook.com/anas.nadeem.9638/"><img width="50px" alt="Facebook" title="Facebook" src="https://user-images.githubusercontent.com/92143521/166066747-e26ed910-06bb-408f-96e3-03cdf5353ba1.png"/></a>
+<a href="https://twitter.com/Mr00Magician/"><img width="50px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/92143521/192584646-5b51eeec-177c-4a4e-96ad-a2abed8d8351.png"/></a>
 
