@@ -49,7 +49,7 @@
   <img src="https://user-images.githubusercontent.com/92143521/166063280-cf94e1f0-b8f4-4698-a1d5-04b5c71c28ba.gif"
        height="250"
        align="right">
-</p>
+</p> 
 <br clear = "left">
 
 # 🤝 Connect With Me 🤝
