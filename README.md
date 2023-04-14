@@ -11,6 +11,7 @@
    - 👨‍🎓 As of now, I am an undergrad pursuing B. Tech. in Computer Science at BBDITM.<br>
    - 💪 Intermediate knowledge of C, C++, Data Structures and Algorithms has made my fundamentals of programming very strong.<br>
    - 📚 I am currently taking courses on various sub-domains of Machine Learning to further hone my ML skills.<br>
+   - 💻 Also working on developing some web based projects to enhance my newly-acquired web dev skills.
    - 📫 Want to reach me? Here you go: meanasnadeem@gmail.com<br>
    - 📝 [My Resume](https://drive.google.com/file/d/156gO65LIsyL6JDgGMXJ15FwAbYMoYo57/view?usp=share_link)
    - 🔗 [Portfolio Website](https://me-anas-nadeem.carrd.co)
