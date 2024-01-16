@@ -47,7 +47,7 @@
 
 <p align = "center">
  <a href = "https://git.io/streak-stats">
-  <img src = "https://streak-stats.demolab.com?user=Mr00Magician&theme=dark" alt = "Streak Stats" align = "center" />
+  <img src = "https://git-hub-readme-streak-stats.vercel.app?user=Mr00Magician&theme=dark" alt = "Streak Stats" align = "center" />
  </a>
 </p>
 <br clear = "both">
